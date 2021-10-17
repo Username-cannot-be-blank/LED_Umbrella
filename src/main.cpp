@@ -51,6 +51,7 @@ bool bmirrored = false;
 //float fcooling = 1.0;
 //float spreadRate = 1.0;
 
+// Size, cooling, sparking, sparks, sparkheight, breversed, bmirrored
 ClassicFireEffect fire(NUM_LEDS, cooling, sparking, sparks, sparkheight, breversed, bmirrored); 
 
 // FireEffectSmooth fire(NUM_LEDS, bmirrored, breversed, sparkheight, sparkProbability, fcooling, spreadRate);
