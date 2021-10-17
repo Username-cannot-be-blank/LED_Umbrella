@@ -54,7 +54,6 @@ bool bmirrored = false;
 // size, cooling, sparking, sparks, sparkheight, reversed, mirrored
 ClassicFireEffect fire(NUM_LEDS, cooling, sparking, sparks, sparkheight, breversed, bmirrored); 
 
-// size, mirrored, reversed, sparkHeight, sparkProbability, float cooling, float spreadRate
 // FireEffectSmooth fire(NUM_LEDS, bmirrored, breversed, sparkheight, sparkProbability, fcooling, spreadRate);
 // This doesn't seem to work
 
